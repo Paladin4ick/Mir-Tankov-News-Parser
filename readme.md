@@ -42,8 +42,9 @@ To run the bot, follow these steps:
    python source/main.py
    ```
 
-<h2>Вклад в проект</h2>
+<h2>Contribution to the project</h2>
 I welcome contributions to the project! If you would like to suggest improvements or report bugs,
 please open a new Issue or Pull Request.
+
 ---
 <h2 align="center">Thank you for using the bot</h2>
