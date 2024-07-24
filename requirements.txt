@@ -1,0 +1,14 @@
+aiohttp
+aiosignal
+async-timeout
+attrs
+beautifulsoup4
+bs4
+disnake
+frozenlist
+idna
+loguru
+multidict
+python-dotenv
+soupsieve
+yarl
