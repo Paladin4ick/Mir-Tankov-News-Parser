@@ -154,7 +154,7 @@ class NewsParser:
             for token, link in link_replacements.items():
                 trimmed_text = trimmed_text.replace(token, link)
 
-            return trimmed_text
+            return trimmed_text + "..."
 
         except (AttributeError, TypeError, ValueError) as e:
             logger.error(e)
