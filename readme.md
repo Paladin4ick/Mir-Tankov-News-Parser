@@ -1,4 +1,4 @@
-# <h1 align="center">"Мир Танков" news parser discord bot</h1>
+# <h1 align="center">Bot for publishing news in Discord from the game Мир Танков</h1>
 
 ---
 ![Python](https://img.shields.io/badge/python-3.12+-blue)
